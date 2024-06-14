@@ -1,4 +1,4 @@
-module http-file-server
+module github.com/PietervdWerk/http-file-server
 
 go 1.22.2
 
